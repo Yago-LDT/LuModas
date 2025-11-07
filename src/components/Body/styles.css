@@ -1,0 +1,13 @@
+.introduction {
+    margin-top: -20px;
+    width: fit-content;
+} 
+
+.mainbody h1 {
+    color: blueviolet;
+}
+
+.mainbody {
+    justify-content: center;
+    align-items: center;
+}

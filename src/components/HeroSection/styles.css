@@ -1,0 +1,56 @@
+.heroSection{
+    font-size: large;
+    padding: 20px;
+    margin: -8px;
+    height: 595px;
+    color: white;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent), url(https://i.pinimg.com/originals/ac/35/e7/ac35e7a8f2f2bd0d59083075b49e223c.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
+
+.heroSection h1{    
+    margin-top: 100px;
+    padding: 10px;
+}
+
+.heroSection span{
+    color: violet;
+}
+
+.heroSection button{
+    border-radius: 10%;
+    margin-left: 10%;
+    width: 10%;
+    height: 10%;
+    border: none;
+    color: white;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+.heroSection button:hover{
+    background-color: rgb(162, 92, 228);
+}
+
+.heroSection a {
+    color: white;
+    text-decoration: none;
+}
+
+.heroSection h2 {
+    width: 50%;;
+}
+
+main {
+    background-color: white;
+}
+
+footer{
+    background-color: white;
+}
