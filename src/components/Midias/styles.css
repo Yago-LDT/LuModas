@@ -1,0 +1,14 @@
+.midias {
+    font-size: large;
+}
+
+.midias h1 {
+    color: blueviolet;
+    margin: 0;
+}
+
+.slider {
+    padding-top: 50px;
+    height: 100vh;
+    width: 100%;
+}

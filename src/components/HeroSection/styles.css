@@ -1,5 +1,5 @@
 .heroSection{
-    font-size: large;
+    font-size: larger;
     padding: 20px;
     margin: -8px;
     height: 595px;
@@ -20,7 +20,7 @@
 }
 
 .heroSection span{
-    color: violet;
+    color: blueviolet;
 }
 
 .heroSection button{
