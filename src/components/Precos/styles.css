@@ -9,14 +9,28 @@
     color: blueviolet;
 }
 
+.item {
+    font-size: larger;
+    font-weight: bold;
+}
+
 .categoria {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .categoria .item {
-    padding-right: 20px;
+    padding-right: 50px;
 }
 
 .categoria .valor {
-    padding-left: 20px;
+    padding-left: 50px;
+}
+
+hr {
+    width: 30%;
+    color: blueviolet;
+    border-top: none;
 }

@@ -6,7 +6,6 @@ function Midias(){
 
     const [currentIndex, setCurrentIndex] = useState(0);
     
-
     return (
     <div className='midias'>
     <h1>Mídias</h1>
