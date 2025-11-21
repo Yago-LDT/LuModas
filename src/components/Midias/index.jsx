@@ -7,7 +7,7 @@ function Midias(){
     const [currentIndex, setCurrentIndex] = useState(0);
     
     return (
-    <div className='midias'>
+    <div className='midias fade'>
     <h1>Mídias</h1>
     <div className='slider' style={styles.slider}>
     <img
@@ -42,7 +42,7 @@ const styles = {
     position: "relative",
     left: "70px",
     width: "90%",
-    height: "500px",
+    height: "530px",
     overflow: "hidden",
     borderRadius: "20px",
     },
@@ -51,13 +51,14 @@ const styles = {
     width: "100%",
     height: "100%",
     objectFit: "cover",
-    transition: "opacity 0.5s ease-in-out",
     },
     controls: {
     position: "absolute",
-    bottom: "10px",
-    padding: "0 0 0 70px",
-    width: "90%",
+    height: "100%",
+    bottom: "0px",
+    left: "-80px",
+    padding: "0 0 0 80px",
+    width: "100%",
     display: "flex",    
     justifyContent: "space-between",
     },

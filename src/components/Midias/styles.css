@@ -1,6 +1,6 @@
 .midias {
     font-size: large;
-    margin-top: 200px;
+    margin-top: 400px;
 }
 
 .midias h1 {
@@ -10,4 +10,14 @@
 .slider {
     height: 100vh;
     width: 100%;
+}
+
+.midias button {
+    width: 100px;
+    opacity: 0.1;
+}
+
+.midias button:hover {
+    opacity: 0.6;
+    background-color: rgb(183, 137, 226);
 }

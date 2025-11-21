@@ -9,6 +9,14 @@
     color: blueviolet;
 }
 
+.precos p {
+    text-align: center;
+}
+
+#aviso {
+    margin-top: 50px;
+}
+
 .item {
     font-size: larger;
     font-weight: bold;

@@ -16,10 +16,16 @@ footer img {
     height: 40px;
 }
 
-.contato {
+footer .contatos {
+    display: block;
+    text-align: center;
     margin-top: 20px;
     margin-left: 800px;
     padding: 20px;  
+}
+
+footer .contatos a{
+    margin-left: 20px;
 }
 
 .creditos {
