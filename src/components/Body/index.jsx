@@ -7,7 +7,7 @@ function Body(){
     return(
 <>
     <div className="mainbody">
-        <div className="introduction fade" id="introducao">
+        <div className="introducao fade" id="introducao">
             
             <h1>Sobre</h1>
 
